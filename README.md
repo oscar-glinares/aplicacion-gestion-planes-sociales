@@ -1,2 +1,5 @@
-# aplicacion-gestion-planes-sociales
-aplicaciongestionplanessociales
+LEEAME
+
+### Cambios desde Web
+
+## Cambio desde local
